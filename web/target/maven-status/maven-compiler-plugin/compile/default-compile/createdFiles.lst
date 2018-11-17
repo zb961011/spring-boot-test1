@@ -1,0 +1,4 @@
+com\example\web\service\TestService.class
+com\example\web\entity\TestEntity.class
+com\example\web\dao\TestDao.class
+com\example\web\controller\TestController.class
